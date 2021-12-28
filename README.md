@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rukhsar111
 - 👀 I’m interested in  AI  And Machine Learning 
 - 🌱 I’m currently learning ...  Machine Learning And Deep Learning and Computer Vision.
-- 💞️ I’m looking to collaborate on ... AI  and 
+- 💞️ I’m looking to collaborate on ... AI  and  Machine Learning
 - 📫 How to reach me at ...www.linkedin.com/in/rukhsar-ahmed-3598aa138
 
 
