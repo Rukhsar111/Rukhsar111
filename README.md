@@ -21,7 +21,6 @@ Tools and Technologies :
 ![1_MCpM5idqhNRjoWCfb_60OA](https://user-images.githubusercontent.com/54540404/155665915-762cd169-5b25-4574-90eb-5dc482962880.png)
 ![visual-studio-code-logo-284BC24C39-seeklogo com](https://user-images.githubusercontent.com/54540404/155665944-5557d94a-2c9e-4a85-b361-3aaf6f55b1ed.png)
 ![mysql_PNG29](https://user-images.githubusercontent.com/54540404/155666153-63fe4617-40df-4577-82cb-9edfe8e2ae95.png) 
-
 ![post](https://user-images.githubusercontent.com/54540404/155667065-f53ceb67-decb-4252-b994-73c5d03a4f47.png)
 
 
