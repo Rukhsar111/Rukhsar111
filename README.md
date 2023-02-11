@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rukhsar111
+                 👋 Hi, I’m @Rukhsar111
 - 👀 I’m interested in  AI  And Machine Learning 
 - 🌱 I’m currently Exploring ...  Deep Learning and Computer Vision to solve  the real world problems .
 - 💞️ I’m looking to collaborate on ... AI  and  Machine Learning
